@@ -33,6 +33,10 @@ else:
 
 ##  Output
 <img width="1330" height="825" alt="image" src="https://github.com/user-attachments/assets/8f1515cc-d44d-41c0-bdc6-1987f98bcaf6" />
+
+
+## ✅ Result
+Thus, the program has been successfully executed to check whether a given number is a palindrome.
 <br>
 <br>
 
@@ -190,5 +194,4 @@ Thus, the program has been successfully executed to print an equilateral triangl
 
 
 
-## ✅ Result
-Thus, the program has been successfully executed to check whether a given number is a palindrome.
+
